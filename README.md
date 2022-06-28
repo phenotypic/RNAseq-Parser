@@ -33,3 +33,7 @@ python3 parser.py
 ```
 
 Open `csv2mex.R` in RStudio to run the script. Remember to change the project path and input `.csv` file in the script before running.
+
+## Notes
+
+- `csv2mex.R` was originally obtained from [this gist](https://gist.github.com/xie186/332eff13dcac50f101f91494402b4bd1)
